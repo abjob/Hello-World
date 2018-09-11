@@ -1,3 +1,3 @@
 # Hello-World
 Test repository
-HIGH all
+HI all
